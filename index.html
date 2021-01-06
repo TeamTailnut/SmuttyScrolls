@@ -1,8 +1,8 @@
 <html><head>
     <link rel="stylesheet" href="index.css">
 </head>
-<body>
-    <div>
+<body style="background-color:#000000;">
+    <div align="center">
         <iframe src="https://store.steampowered.com/widget/885510/" width="646" height="190" frameborder="0"></iframe>
     </div>
 
